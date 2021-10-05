@@ -1,0 +1,20 @@
+{
+    "env" : {
+      "FirstName" : "First Name Test",
+      "LastName" : "Last Name Test",
+      "Password" : "P@ss0123456",
+      "BD_Day" : "31",
+      "BD_Month" : "3",
+      "BD_Year" : "1990",
+      "Address" : "Maadi Address",
+      "City" : "Cairo",
+      "State" : "3",
+      "PostCode" : "00000",
+      "Mobile" : "01099255159",
+      "AddressAlias" : "Home Address",
+
+      "MobileWrongFormat" : "01099255159test"
+
+
+    }
+}
